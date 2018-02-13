@@ -1,3 +1,92 @@
-<NotAuthorizedException>
-  <Message>SPNEGO token required</Message>
-</NotAuthorizedException>
+127.0.0.1 localhost localhost.localdomain localhost4 localhost4.localdomain4
+127.0.1.1 cloud.acer.com abcloud-mgr.byoc.acer.com
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+34.231.176.31 ipa.byoc.acer.com
+
+##Kiwi for computex/demo)
+54.169.241.198   Kiwi_VAaaS_sg_server-01
+52.221.89.83     Kiwi_VAaaS_sg_web-ui-01
+
+##Kiwi Toyko(ASIA) Region
+52.193.141.134   Kiwi_VAaaS_jp_Platform-Web-01
+52.196.150.141   Kiwi_VAaaS_jp_Platform-Cron-Report-01
+52.192.198.191   Kiwi_VAaaS_jp_Platform-Service-01
+52.192.155.32    Kiwi_VAaaS_jp_Core-Device-01
+52.69.75.43      Kiwi_VAaaS_jp_Core-Arbiter-01
+52.193.51.56     Kiwi_VAaaS_jp_Database-01
+52.197.11.253    Kiwi_VAaaS_jp_Database-Replica-Backup-01
+
+##Kiwi Frankfurt(EMEA) Region
+35.156.79.33     Kiwi_VAaaS_fra_Platform-Web-01
+35.156.57.8      Kiwi_VAaaS_fra_Platform-Cron-Report-01
+35.156.109.120   Kiwi_VAaaS_fra_Platform-Service-01
+35.156.119.22    Kiwi_VAaaS_fra_Core-Device-01
+35.156.125.209   Kiwi_VAaaS_fra_Core-Arbiter-01
+35.156.126.70    Kiwi_VAaaS_fra_Database-01
+35.156.129.235   Kiwi_VAaaS_fra_Database-Replica-Backup-01
+
+##Strawberry (STiNO)
+52.28.86.189     strawberry_ds_fra-console-01
+##Strawberry Server
+52.40.174.192    strawberry_ds_or-console-02
+
+##StarVR server
+52.52.110.17     acer_starvr_nc_website_01
+
+##ABS Uat-TW
+34.228.98.131    Uat-TW_DTP_1
+34.225.239.232   Uat-TW_DTP_2
+##ABS Prod-APAC
+52.221.93.59     Prod-APAC_DTP_1
+52.221.93.243    Prod-APAC_DTP_2
+##ABS Prod-EU
+18.194.157.53    Prod-EU_DTP_1
+18.194.157.223   Prod-EU_DTP_2
+
+##BDM/BAR Prod US (Oregon) Region
+34.208.175.134   BDM1
+34.210.16.209    BDM2
+##BDM/BAR Prod China (Beijing) Region
+54.223.34.183    bdm.china
+
+##ABeing Wellness Dev
+52.196.76.130    wellness1.dev
+52.192.73.98     wellness2.dev
+##ABeing Wellness Prod
+##abeing-wellness-prod-asia-php-app6
+54.65.8.191      wellness1
+##abeing-wellness-prod-asia-php-app7
+13.115.170.53     wellness2
+
+##aBeing package server
+52.68.187.87     package1
+52.68.254.252    package2
+
+##B2B ACT_dev1 webportal landing page
+52.196.12.151    webportal-php-app1
+52.196.95.23     webportal-php-app2
+##B2B ACT_prod webportal landing page
+52.193.224.220   PROD-webportal-php-app1
+52.196.232.225   PROD-webportal-php-app2
+
+##ACT_prod Oauth2 landing page
+35.167.4.78      oauth2-php-app1
+35.167.165.74    oauth2-php-app2
+
+##ATS RVI SOTA Sever
+52.76.246.183    ATS_SOTA_sg_server-01
+
+##PSR-Proxy(PSMP)
+52.1.194.196     PSMP
+
+##LDAP ACT_prod IPA LDAP page
+34.231.176.31    ipa
+
+##Jira Server project Test Server
+54.71.170.200    acer_or_jira_test_01
+##Jira Server project Prod Server
+52.35.38.201     acer_or_jira_01
+
+##Bugzilla Server for BDM project
+52.57.154.232    acer_bdm_fra_bugzilla_01
+
