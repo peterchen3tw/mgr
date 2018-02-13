@@ -1,0 +1,3 @@
+<NotAuthorizedException>
+  <Message>SPNEGO token required</Message>
+</NotAuthorizedException>
